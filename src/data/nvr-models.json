@@ -1,0 +1,1209 @@
+[
+  {
+    "id": "kbvision-kx-dai8108h3-5m",
+    "brand": "KBVISION",
+    "model": "KX-DAi8108H3-5M",
+    "series": "AI XVR 5M Series",
+    "deviceType": "XVR/DVR",
+    "channelCount": 8,
+    "maxResolution": "6 MP (IP) / 5M-N (Analog)",
+    "incomingBandwidth": "64 Mbps",
+    "outgoingBandwidth": "64 Mbps",
+    "streams": {
+      "ch1": {
+        "resolution": "6 MP IP / 5M-N",
+        "fps": 25,
+        "text": "1-ch @ 6 MP (25 fps) / 5M-N (10 fps)"
+      },
+      "ch2": {
+        "resolution": "4M-N / 1080p",
+        "fps": 15,
+        "text": "2-ch @ 4M-N (15 fps) / 1080p (15 fps)"
+      },
+      "ch3": {
+        "resolution": "1080p / 1080N",
+        "fps": 15,
+        "text": "3-ch @ 1080p (15 fps) / 1080N (25 fps)"
+      },
+      "ch4": {
+        "resolution": "1080N / 720p",
+        "fps": 25,
+        "text": "4-ch @ 1080N / 720p (25 fps) or 1080p (15 fps)"
+      }
+    },
+    "totalDecodingCapacity": "4-ch @ 1080N (25 fps) or 1-ch @ 6 MP IP (25 fps) / 1/4 ch synchronous playback",
+    "compression": [
+      "AI Coding",
+      "H.265+",
+      "H.265",
+      "H.264+",
+      "H.264"
+    ],
+    "videoOutputs": [
+      "1x HDMI (up to 2K)",
+      "1x VGA (1080p)"
+    ],
+    "sataPorts": "1 SATA port (up to 16 TB)",
+    "poePorts": 0,
+    "aiFeatures": [
+      "Face Recognition (1 ch analog)",
+      "Perimeter Protection (1 ch)",
+      "SMD Plus (8 ch)"
+    ],
+    "sourceUrl": "https://kbvisiongroup.com/product/kx-dai8108h3-5m/",
+    "notes": "Penta-brid 8-ch DVR supporting up to 12 IP channels (up to 6 MP each) when analog channels are disabled.",
+    "verified": true,
+    "lastAgentScan": "2026-10-13T19:37:57.656Z"
+  },
+  {
+    "id": "kbvision-kx-dai8104h3-5m",
+    "brand": "KBVISION",
+    "model": "KX-DAi8104H3-5M",
+    "series": "AI XVR 5M Series",
+    "deviceType": "XVR/DVR",
+    "channelCount": 4,
+    "maxResolution": "6 MP (IP) / 5M-N (Analog)",
+    "incomingBandwidth": "32 Mbps",
+    "outgoingBandwidth": "32 Mbps",
+    "streams": {
+      "ch1": {
+        "resolution": "6 MP IP / 5M-N",
+        "fps": 25,
+        "text": "1-ch @ 6 MP (25 fps) / 5M-N (10 fps)"
+      },
+      "ch2": {
+        "resolution": "4M-N / 1080p",
+        "fps": 15,
+        "text": "2-ch @ 4M-N (15 fps) / 1080p (15 fps)"
+      },
+      "ch3": {
+        "resolution": "1080p / 1080N",
+        "fps": 15,
+        "text": "3-ch @ 1080p (15 fps) / 1080N (25 fps)"
+      },
+      "ch4": {
+        "resolution": "1080N / 720p",
+        "fps": 25,
+        "text": "4-ch @ 1080N / 720p (25 fps) or 1080p (15 fps)"
+      }
+    },
+    "totalDecodingCapacity": "4-ch @ 1080N (25 fps) or 1-ch @ 6 MP IP (25 fps) / 1/4 ch synchronous playback",
+    "compression": [
+      "AI Coding",
+      "H.265+",
+      "H.265",
+      "H.264+",
+      "H.264"
+    ],
+    "videoOutputs": [
+      "1x HDMI (1080p)",
+      "1x VGA (1080p)"
+    ],
+    "sataPorts": "1 SATA port (up to 6 TB)",
+    "poePorts": 0,
+    "aiFeatures": [
+      "Face Recognition (1 ch analog)",
+      "Perimeter Protection (1 ch)",
+      "SMD Plus (4 ch)"
+    ],
+    "sourceUrl": "https://kbvisiongroup.com/product/kx-dai8104h3-5m/",
+    "notes": "Penta-brid 4-ch DVR expandable up to 6 IP channels (up to 6 MP) with 32 Mbps total bandwidth.",
+    "verified": true,
+    "lastAgentScan": "2026-10-13T19:37:57.656Z"
+  },
+  {
+    "id": "kbvision-kx-a8104n2",
+    "brand": "KBVISION",
+    "model": "KX-A8104N2",
+    "series": "Entry NVR Series",
+    "deviceType": "NVR",
+    "channelCount": 4,
+    "maxResolution": "6 MP",
+    "incomingBandwidth": "40 Mbps",
+    "outgoingBandwidth": "40 Mbps",
+    "streams": {
+      "ch1": {
+        "resolution": "6 MP",
+        "fps": 25,
+        "text": "1-ch @ 6 MP (25 fps)"
+      },
+      "ch2": {
+        "resolution": "4 MP",
+        "fps": 25,
+        "text": "2-ch @ 4 MP (25 fps)"
+      },
+      "ch3": {
+        "resolution": "3 MP / 1080p",
+        "fps": 25,
+        "text": "3-ch @ 3 MP / 1080p (25 fps)"
+      },
+      "ch4": {
+        "resolution": "1080p",
+        "fps": 25,
+        "text": "4-ch @ 1080p (25 fps)"
+      }
+    },
+    "totalDecodingCapacity": "4-ch @ 1080p (25 fps) or 1-ch @ 6 MP (25 fps)",
+    "compression": [
+      "H.265+",
+      "H.265",
+      "H.264+",
+      "H.264"
+    ],
+    "videoOutputs": [
+      "1x HDMI (1080p)",
+      "1x VGA (1080p)"
+    ],
+    "sataPorts": "1 SATA port (up to 6 TB)",
+    "poePorts": 0,
+    "aiFeatures": [
+      "Motion Detection",
+      "Privacy Masking",
+      "Video Loss Alert"
+    ],
+    "sourceUrl": "https://kbvisiongroup.com/product/kx-a8104n2/",
+    "notes": "Budget 4-channel pure IP NVR with compact form factor.",
+    "verified": true,
+    "lastAgentScan": "2026-10-13T19:37:57.656Z"
+  },
+  {
+    "id": "kbvision-kx-a8108n2",
+    "brand": "KBVISION",
+    "model": "KX-A8108N2",
+    "series": "Entry NVR Series",
+    "deviceType": "NVR",
+    "channelCount": 8,
+    "maxResolution": "6 MP",
+    "incomingBandwidth": "40 Mbps",
+    "outgoingBandwidth": "40 Mbps",
+    "streams": {
+      "ch1": {
+        "resolution": "6 MP",
+        "fps": 25,
+        "text": "1-ch @ 6 MP (25 fps)"
+      },
+      "ch2": {
+        "resolution": "4 MP",
+        "fps": 25,
+        "text": "2-ch @ 4 MP (25 fps)"
+      },
+      "ch3": {
+        "resolution": "3 MP / 1080p",
+        "fps": 25,
+        "text": "3-ch @ 3 MP / 1080p (25 fps)"
+      },
+      "ch4": {
+        "resolution": "1080p",
+        "fps": 25,
+        "text": "4-ch @ 1080p (25 fps)"
+      }
+    },
+    "totalDecodingCapacity": "4-ch @ 1080p (25 fps) / 8-ch @ 720p (25 fps)",
+    "compression": [
+      "H.265+",
+      "H.265",
+      "H.264+",
+      "H.264"
+    ],
+    "videoOutputs": [
+      "1x HDMI (1080p)",
+      "1x VGA (1080p)"
+    ],
+    "sataPorts": "1 SATA port (up to 6 TB)",
+    "poePorts": 0,
+    "aiFeatures": [
+      "Motion Detection",
+      "Tampering Detection"
+    ],
+    "sourceUrl": "https://kbvisiongroup.com/product/kx-a8108n2/",
+    "notes": "8-channel compact IP NVR supporting up to 6MP camera inputs.",
+    "verified": true,
+    "lastAgentScan": "2026-10-13T19:37:57.656Z"
+  },
+  {
+    "id": "kbvision-kx-c4k8104n2",
+    "brand": "KBVISION",
+    "model": "KX-C4K8104N2",
+    "series": "Pro 4K NVR Series",
+    "deviceType": "NVR",
+    "channelCount": 4,
+    "maxResolution": "8 MP (4K)",
+    "incomingBandwidth": "80 Mbps",
+    "outgoingBandwidth": "80 Mbps",
+    "streams": {
+      "ch1": {
+        "resolution": "8 MP (4K)",
+        "fps": 30,
+        "text": "1-ch @ 8 MP (30 fps)"
+      },
+      "ch2": {
+        "resolution": "4 MP",
+        "fps": 30,
+        "text": "2-ch @ 4 MP (30 fps)"
+      },
+      "ch3": {
+        "resolution": "3 MP",
+        "fps": 30,
+        "text": "3-ch @ 3 MP (30 fps)"
+      },
+      "ch4": {
+        "resolution": "1080p",
+        "fps": 30,
+        "text": "4-ch @ 1080p (30 fps)"
+      }
+    },
+    "totalDecodingCapacity": "1-ch @ 8 MP (30 fps) or 4-ch @ 1080p (30 fps)",
+    "compression": [
+      "Smart H.265+",
+      "H.265",
+      "Smart H.264+",
+      "H.264"
+    ],
+    "videoOutputs": [
+      "1x HDMI (4K 3840x2160)",
+      "1x VGA (1080p)"
+    ],
+    "sataPorts": "1 SATA port (up to 10 TB)",
+    "poePorts": 0,
+    "aiFeatures": [
+      "SMD Plus IPC support",
+      "Tripwire & Intrusion by IPC"
+    ],
+    "sourceUrl": "https://kbvisiongroup.com/product/kx-c4k8104n2/",
+    "notes": "Supports 4K HDMI video output and 80 Mbps high bitrate throughput.",
+    "verified": true,
+    "lastAgentScan": "2026-10-13T19:37:57.656Z"
+  },
+  {
+    "id": "kbvision-kx-c4k8108n2",
+    "brand": "KBVISION",
+    "model": "KX-C4K8108N2",
+    "series": "Pro 4K NVR Series",
+    "deviceType": "NVR",
+    "channelCount": 8,
+    "maxResolution": "8 MP (4K)",
+    "incomingBandwidth": "80 Mbps",
+    "outgoingBandwidth": "80 Mbps",
+    "streams": {
+      "ch1": {
+        "resolution": "8 MP (4K)",
+        "fps": 30,
+        "text": "1-ch @ 8 MP (30 fps)"
+      },
+      "ch2": {
+        "resolution": "4 MP",
+        "fps": 30,
+        "text": "2-ch @ 4 MP (30 fps)"
+      },
+      "ch3": {
+        "resolution": "4 MP / 1080p",
+        "fps": 30,
+        "text": "3-ch @ 4 MP / 1080p (30 fps)"
+      },
+      "ch4": {
+        "resolution": "4 MP / 1080p",
+        "fps": 30,
+        "text": "4-ch @ 4 MP (30 fps) or 8-ch @ 1080p (30 fps)"
+      }
+    },
+    "totalDecodingCapacity": "1-ch @ 8 MP (30 fps) or 4-ch @ 4 MP (30 fps) / 8-ch @ 1080p (30 fps)",
+    "compression": [
+      "Smart H.265+",
+      "H.265",
+      "Smart H.264+",
+      "H.264"
+    ],
+    "videoOutputs": [
+      "1x HDMI (4K)",
+      "1x VGA (1080p)"
+    ],
+    "sataPorts": "1 SATA port (up to 10 TB)",
+    "poePorts": 0,
+    "aiFeatures": [
+      "Perimeter Protection by IPC",
+      "SMD Plus by IPC",
+      "Face Detection"
+    ],
+    "sourceUrl": "https://kbvisiongroup.com/product/kx-c4k8108n2/",
+    "notes": "High performance 8-ch NVR with native 4K display and broad IPC AI capability.",
+    "verified": true,
+    "lastAgentScan": "2026-10-13T19:37:57.656Z"
+  },
+  {
+    "id": "hikvision-ds-7104ni-q1",
+    "brand": "Hikvision",
+    "model": "DS-7104NI-Q1",
+    "series": "Q-Series Mini 1U NVR",
+    "deviceType": "NVR",
+    "channelCount": 4,
+    "maxResolution": "6 MP",
+    "incomingBandwidth": "40 Mbps",
+    "outgoingBandwidth": "60 Mbps",
+    "streams": {
+      "ch1": {
+        "resolution": "6 MP",
+        "fps": 30,
+        "text": "1-ch @ 6 MP (30 fps)"
+      },
+      "ch2": {
+        "resolution": "4 MP",
+        "fps": 30,
+        "text": "2-ch @ 4 MP (30 fps)"
+      },
+      "ch3": {
+        "resolution": "3 MP / 1080p",
+        "fps": 30,
+        "text": "3-ch @ 3 MP (30 fps) / 1080p (30 fps)"
+      },
+      "ch4": {
+        "resolution": "1080p",
+        "fps": 30,
+        "text": "4-ch @ 1080p (30 fps)"
+      }
+    },
+    "totalDecodingCapacity": "1-ch @ 6 MP (30 fps) / 2-ch @ 4 MP (30 fps) / 4-ch @ 1080p (30 fps)",
+    "compression": [
+      "H.265+",
+      "H.265",
+      "H.264+",
+      "H.264"
+    ],
+    "videoOutputs": [
+      "1x HDMI (1080p 60Hz)",
+      "1x VGA (1080p 60Hz)"
+    ],
+    "sataPorts": "1 SATA interface (up to 6 TB)",
+    "poePorts": 0,
+    "aiFeatures": [
+      "Smart Search for Playback",
+      "Motion Detection by IPC"
+    ],
+    "sourceUrl": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Value-Series/ds-7104ni-q1/",
+    "notes": "Hikvision's widely deployed 4-ch value NVR with H.265+ smart codec and mini chassis.",
+    "verified": true,
+    "lastAgentScan": "2026-10-13T19:37:57.656Z"
+  },
+  {
+    "id": "hikvision-ids-7208hqhi-m1-e",
+    "brand": "Hikvision",
+    "model": "iDS-7208HQHI-M1/E",
+    "series": "AcuSense Turbo HD Series",
+    "deviceType": "XVR/DVR",
+    "channelCount": 8,
+    "maxResolution": "6 MP (IP) / 4 MP Lite (Analog)",
+    "incomingBandwidth": "48 Mbps",
+    "outgoingBandwidth": "72 Mbps",
+    "streams": {
+      "ch1": {
+        "resolution": "6 MP IP / 4 MP Lite",
+        "fps": 25,
+        "text": "1-ch @ 6 MP IP (25 fps) / 4 MP Lite (15 fps)"
+      },
+      "ch2": {
+        "resolution": "4 MP Lite / 1080p",
+        "fps": 15,
+        "text": "2-ch @ 4 MP Lite (15 fps) / 1080p (15 fps)"
+      },
+      "ch3": {
+        "resolution": "1080p / 720p",
+        "fps": 25,
+        "text": "3-ch @ 1080p (15 fps) / 720p (25/30 fps)"
+      },
+      "ch4": {
+        "resolution": "1080p Lite / 720p",
+        "fps": 30,
+        "text": "4-ch @ 1080p Lite (25/30 fps) or 1080p (15 fps)"
+      }
+    },
+    "totalDecodingCapacity": "8-ch synchronous playback up to 1080p / 1-ch @ 6 MP IP",
+    "compression": [
+      "H.265 Pro+",
+      "H.265 Pro",
+      "H.265",
+      "H.264+",
+      "H.264"
+    ],
+    "videoOutputs": [
+      "1x HDMI (1080p)",
+      "1x VGA (1080p)"
+    ],
+    "sataPorts": "1 SATA interface (up to 10 TB)",
+    "poePorts": 0,
+    "aiFeatures": [
+      "Motion Detection 2.0 (all 8 analog ch)",
+      "Perimeter Protection (up to 4 ch)",
+      "Facial Recognition"
+    ],
+    "sourceUrl": "https://www.hikvision.com/en/products/Turbo-HD-Products/DVR/AcuSense-Series/ids-7208hqhi-m1-e/",
+    "notes": "AcuSense deep learning DVR capable of expanding up to 12 IP channels in Enhanced IP mode.",
+    "verified": true,
+    "lastAgentScan": "2026-10-13T19:37:57.656Z"
+  },
+  {
+    "id": "hikvision-ds-7204hghi-m1",
+    "brand": "Hikvision",
+    "model": "DS-7204HGHI-M1",
+    "series": "Turbo HD Value Series",
+    "deviceType": "XVR/DVR",
+    "channelCount": 4,
+    "maxResolution": "2 MP (IP) / 1080p Lite (Analog)",
+    "incomingBandwidth": "24 Mbps",
+    "outgoingBandwidth": "40 Mbps",
+    "streams": {
+      "ch1": {
+        "resolution": "1080p Lite / 2 MP IP",
+        "fps": 30,
+        "text": "1-ch @ 1080p Lite (30 fps) / 2 MP IP (25 fps)"
+      },
+      "ch2": {
+        "resolution": "1080p Lite / 720p",
+        "fps": 30,
+        "text": "2-ch @ 1080p Lite (30 fps) / 720p (30 fps)"
+      },
+      "ch3": {
+        "resolution": "1080p Lite / 720p",
+        "fps": 30,
+        "text": "3-ch @ 1080p Lite (30 fps) / 720p (30 fps)"
+      },
+      "ch4": {
+        "resolution": "1080p Lite / 720p",
+        "fps": 30,
+        "text": "4-ch @ 1080p Lite (30 fps) / 720p (30 fps)"
+      }
+    },
+    "totalDecodingCapacity": "4-ch @ 1080p Lite (30 fps) / 4-ch synchronous playback",
+    "compression": [
+      "H.265 Pro+",
+      "H.265 Pro",
+      "H.265",
+      "H.264+",
+      "H.264"
+    ],
+    "videoOutputs": [
+      "1x HDMI (1080p 60Hz)",
+      "1x VGA (1080p 60Hz)"
+    ],
+    "sataPorts": "1 SATA interface (up to 4 TB)",
+    "poePorts": 0,
+    "aiFeatures": [
+      "Motion Detection 2.0 (Human & Vehicle target classification)"
+    ],
+    "sourceUrl": "https://www.hikvision.com/en/products/Turbo-HD-Products/DVR/Value-Series/ds-7204hghi-m1/",
+    "notes": "Compact 4-ch Turbo HD recorder with 1 extra IP camera input (up to 5 channels total).",
+    "verified": true,
+    "lastAgentScan": "2026-10-13T19:37:57.656Z"
+  },
+  {
+    "id": "hikvision-ds-7208hghi-m1",
+    "brand": "Hikvision",
+    "model": "DS-7208HGHI-M1",
+    "series": "Turbo HD Value Series",
+    "deviceType": "XVR/DVR",
+    "channelCount": 8,
+    "maxResolution": "5 MP (IP) / 1080p Lite (Analog)",
+    "incomingBandwidth": "36 Mbps",
+    "outgoingBandwidth": "60 Mbps",
+    "streams": {
+      "ch1": {
+        "resolution": "5 MP IP / 1080p Lite",
+        "fps": 20,
+        "text": "1-ch @ 5 MP IP (20 fps) / 1080p Lite (15 fps)"
+      },
+      "ch2": {
+        "resolution": "1080p Lite / 720p",
+        "fps": 15,
+        "text": "2-ch @ 1080p Lite (15 fps) / 720p (25/30 fps)"
+      },
+      "ch3": {
+        "resolution": "1080p Lite / 720p",
+        "fps": 15,
+        "text": "3-ch @ 1080p Lite (15 fps) / 720p (25/30 fps)"
+      },
+      "ch4": {
+        "resolution": "1080p Lite / 720p",
+        "fps": 15,
+        "text": "4-ch @ 1080p Lite (15 fps) / 720p (25/30 fps)"
+      }
+    },
+    "totalDecodingCapacity": "8-ch @ 1080p Lite (15 fps) / 8-ch synchronous playback",
+    "compression": [
+      "H.265 Pro+",
+      "H.265 Pro",
+      "H.265",
+      "H.264+",
+      "H.264"
+    ],
+    "videoOutputs": [
+      "1x HDMI (1080p)",
+      "1x VGA (1080p)"
+    ],
+    "sataPorts": "1 SATA interface (up to 4 TB)",
+    "poePorts": 0,
+    "aiFeatures": [
+      "Motion Detection 2.0 (Deep Learning classification on all analog channels)"
+    ],
+    "sourceUrl": "https://www.hikvision.com/en/products/Turbo-HD-Products/DVR/Value-Series/ds-7208hghi-m1/",
+    "notes": "8-ch DVR supporting up to 10 IP channels with Motion Detection 2.0.",
+    "verified": true,
+    "lastAgentScan": "2026-10-13T19:37:57.656Z"
+  },
+  {
+    "id": "hikvision-ds-7604ni-k1-4p",
+    "brand": "Hikvision",
+    "model": "DS-7604NI-K1/4P",
+    "series": "Pro K-Series PoE NVR",
+    "deviceType": "NVR",
+    "channelCount": 4,
+    "maxResolution": "8 MP (4K)",
+    "incomingBandwidth": "40 Mbps",
+    "outgoingBandwidth": "80 Mbps",
+    "streams": {
+      "ch1": {
+        "resolution": "8 MP (4K)",
+        "fps": 30,
+        "text": "1-ch @ 8 MP (30 fps)"
+      },
+      "ch2": {
+        "resolution": "4 MP",
+        "fps": 30,
+        "text": "2-ch @ 4 MP (30 fps)"
+      },
+      "ch3": {
+        "resolution": "3 MP",
+        "fps": 30,
+        "text": "3-ch @ 3 MP (30 fps)"
+      },
+      "ch4": {
+        "resolution": "1080p",
+        "fps": 30,
+        "text": "4-ch @ 1080p (30 fps)"
+      }
+    },
+    "totalDecodingCapacity": "1-ch @ 8 MP (30 fps) / 2-ch @ 4 MP (30 fps) / 4-ch @ 1080p (30 fps)",
+    "compression": [
+      "H.265+",
+      "H.265",
+      "H.264+",
+      "H.264"
+    ],
+    "videoOutputs": [
+      "1x HDMI (4K 3840x2160)",
+      "1x VGA (1080p)"
+    ],
+    "sataPorts": "1 SATA interface (up to 8 TB)",
+    "poePorts": 4,
+    "aiFeatures": [
+      "VCA (Smart Event) detection",
+      "Smart Search & Playback",
+      "ANR failover support"
+    ],
+    "sourceUrl": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Pro-Series/ds-7604ni-k1-4p/",
+    "notes": "Equipped with 4 independent PoE network interfaces and 4K HDMI direct output.",
+    "verified": true,
+    "lastAgentScan": "2026-10-13T19:37:57.656Z"
+  },
+  {
+    "id": "hikvision-ds-7608ni-k2",
+    "brand": "Hikvision",
+    "model": "DS-7608NI-K2",
+    "series": "Pro K-Series 8-Ch NVR",
+    "deviceType": "NVR",
+    "channelCount": 8,
+    "maxResolution": "8 MP (4K)",
+    "incomingBandwidth": "80 Mbps",
+    "outgoingBandwidth": "160 Mbps",
+    "streams": {
+      "ch1": {
+        "resolution": "8 MP (4K) / 12 MP",
+        "fps": 30,
+        "text": "1-ch @ 8 MP / 12 MP (30 fps)"
+      },
+      "ch2": {
+        "resolution": "6 MP / 4 MP",
+        "fps": 30,
+        "text": "2-ch @ 6 MP (30 fps) / 4 MP (30 fps)"
+      },
+      "ch3": {
+        "resolution": "4 MP",
+        "fps": 30,
+        "text": "3-ch @ 4 MP (30 fps)"
+      },
+      "ch4": {
+        "resolution": "4 MP / 1080p",
+        "fps": 30,
+        "text": "4-ch @ 4 MP (30 fps) or 8-ch @ 1080p (30 fps)"
+      }
+    },
+    "totalDecodingCapacity": "1-ch @ 12 MP (30 fps) / 2-ch @ 8 MP / 4-ch @ 4 MP (30 fps) / 8-ch @ 1080p (30 fps)",
+    "compression": [
+      "H.265+",
+      "H.265",
+      "H.264+",
+      "H.264"
+    ],
+    "videoOutputs": [
+      "1x HDMI (4K 3840x2160/30Hz)",
+      "1x VGA (1080p)"
+    ],
+    "sataPorts": "2 SATA interfaces (up to 10 TB each, 20 TB total)",
+    "poePorts": 0,
+    "aiFeatures": [
+      "Multiple VCA events",
+      "Smart POS search",
+      "Dual-OS design for high reliability"
+    ],
+    "sourceUrl": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Pro-Series/ds-7608ni-k2/",
+    "notes": "Dual HDD bays with 160 Mbps outgoing bandwidth for extensive remote streaming.",
+    "verified": true,
+    "lastAgentScan": "2026-10-13T19:37:57.656Z"
+  },
+  {
+    "id": "hikvision-ds-7616ni-i2",
+    "brand": "Hikvision",
+    "model": "DS-7616NI-I2",
+    "series": "Ultra I-Series 16-Ch NVR",
+    "deviceType": "NVR",
+    "channelCount": 16,
+    "maxResolution": "12 MP / 32 MP",
+    "incomingBandwidth": "160 Mbps",
+    "outgoingBandwidth": "256 Mbps",
+    "streams": {
+      "ch1": {
+        "resolution": "32 MP / 12 MP",
+        "fps": 30,
+        "text": "1-ch @ 32 MP (30 fps) / 12 MP (30 fps)"
+      },
+      "ch2": {
+        "resolution": "12 MP",
+        "fps": 20,
+        "text": "2-ch @ 12 MP (20 fps)"
+      },
+      "ch3": {
+        "resolution": "8 MP (4K)",
+        "fps": 25,
+        "text": "3-ch @ 8 MP (25 fps)"
+      },
+      "ch4": {
+        "resolution": "8 MP (4K)",
+        "fps": 25,
+        "text": "4-ch @ 8 MP (25 fps) or 16-ch @ 1080p (30 fps)"
+      }
+    },
+    "totalDecodingCapacity": "4-ch @ 8 MP (25 fps) / 8-ch @ 4 MP (30 fps) / 16-ch @ 1080p (30 fps)",
+    "compression": [
+      "H.265+",
+      "H.265",
+      "H.264+",
+      "H.264",
+      "MPEG4"
+    ],
+    "videoOutputs": [
+      "1x HDMI (4K 60Hz)",
+      "1x VGA (1080p)"
+    ],
+    "sataPorts": "2 SATA interfaces (up to 10 TB each)",
+    "poePorts": 0,
+    "aiFeatures": [
+      "Target classification",
+      "Perimeter & Heat Map",
+      "People Counting",
+      "LPR recognition"
+    ],
+    "sourceUrl": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Ultra-Series/ds-7616ni-i2/",
+    "notes": "High-tier I-Series NVR supporting 32 MP extreme resolution cameras and 4K @ 60Hz HDMI output.",
+    "verified": true,
+    "lastAgentScan": "2026-10-13T19:37:57.656Z"
+  },
+  {
+    "id": "dahua-nvr4104hs-4ks2-l",
+    "brand": "Dahua",
+    "model": "NVR4104HS-4KS2/L",
+    "series": "Lite 4K Series NVR",
+    "deviceType": "NVR",
+    "channelCount": 4,
+    "maxResolution": "8 MP (4K)",
+    "incomingBandwidth": "80 Mbps",
+    "outgoingBandwidth": "60 Mbps",
+    "streams": {
+      "ch1": {
+        "resolution": "8 MP (4K)",
+        "fps": 30,
+        "text": "1-ch @ 8 MP (30 fps)"
+      },
+      "ch2": {
+        "resolution": "4 MP",
+        "fps": 30,
+        "text": "2-ch @ 4 MP (30 fps)"
+      },
+      "ch3": {
+        "resolution": "3 MP",
+        "fps": 30,
+        "text": "3-ch @ 3 MP (30 fps)"
+      },
+      "ch4": {
+        "resolution": "1080p",
+        "fps": 30,
+        "text": "4-ch @ 1080p (30 fps)"
+      }
+    },
+    "totalDecodingCapacity": "8-ch @ 1080p (30 fps) or 4-ch @ 4 MP (30 fps) / 2-ch @ 4K (30 fps)",
+    "compression": [
+      "Smart H.265+",
+      "H.265",
+      "Smart H.264+",
+      "H.264"
+    ],
+    "videoOutputs": [
+      "1x HDMI (4K 3840x2160)",
+      "1x VGA (1080p)"
+    ],
+    "sataPorts": "1 SATA port (up to 10 TB)",
+    "poePorts": 0,
+    "aiFeatures": [
+      "Perimeter Protection by Camera",
+      "SMD Plus by Camera",
+      "Face Detection by Camera"
+    ],
+    "sourceUrl": "https://www.dahuasecurity.com/products/All-Products/Network-Recorders/Lite-Series/NVR4-Series/1-SATA/NVR4104HS-4KS2/L",
+    "notes": "Dahua 4K Lite NVR with 80 Mbps throughput and support for AI-by-camera analytics.",
+    "verified": true,
+    "lastAgentScan": "2026-10-13T19:37:57.656Z"
+  },
+  {
+    "id": "dahua-nvr4108hs-4ks2-l",
+    "brand": "Dahua",
+    "model": "NVR4108HS-4KS2/L",
+    "series": "Lite 4K Series NVR",
+    "deviceType": "NVR",
+    "channelCount": 8,
+    "maxResolution": "8 MP (4K)",
+    "incomingBandwidth": "80 Mbps",
+    "outgoingBandwidth": "60 Mbps",
+    "streams": {
+      "ch1": {
+        "resolution": "8 MP (4K)",
+        "fps": 30,
+        "text": "1-ch @ 8 MP (30 fps)"
+      },
+      "ch2": {
+        "resolution": "4 MP",
+        "fps": 30,
+        "text": "2-ch @ 4 MP (30 fps)"
+      },
+      "ch3": {
+        "resolution": "4 MP",
+        "fps": 30,
+        "text": "3-ch @ 4 MP (30 fps)"
+      },
+      "ch4": {
+        "resolution": "4 MP / 1080p",
+        "fps": 30,
+        "text": "4-ch @ 4 MP (30 fps) or 8-ch @ 1080p (30 fps)"
+      }
+    },
+    "totalDecodingCapacity": "2-ch @ 4K (30 fps) / 4-ch @ 4 MP (30 fps) / 8-ch @ 1080p (30 fps)",
+    "compression": [
+      "Smart H.265+",
+      "H.265",
+      "Smart H.264+",
+      "H.264"
+    ],
+    "videoOutputs": [
+      "1x HDMI (4K 3840x2160)",
+      "1x VGA (1080p)"
+    ],
+    "sataPorts": "1 SATA port (up to 10 TB)",
+    "poePorts": 0,
+    "aiFeatures": [
+      "SMD Plus by IPC",
+      "Face Detection by IPC",
+      "Tripwire by IPC"
+    ],
+    "sourceUrl": "https://www.dahuasecurity.com/products/All-Products/Network-Recorders/Lite-Series/NVR4-Series/1-SATA/NVR4108HS-4KS2/L",
+    "notes": "Dahua 8-ch 4K Lite NVR with simultaneous 8-ch 1080p playback.",
+    "verified": true,
+    "lastAgentScan": "2026-10-13T19:37:57.656Z"
+  },
+  {
+    "id": "dahua-nvr2104hs-4ks2",
+    "brand": "Dahua",
+    "model": "NVR2104HS-4KS2",
+    "series": "Entry 4K Series NVR",
+    "deviceType": "NVR",
+    "channelCount": 4,
+    "maxResolution": "8 MP (4K)",
+    "incomingBandwidth": "80 Mbps",
+    "outgoingBandwidth": "80 Mbps",
+    "streams": {
+      "ch1": {
+        "resolution": "8 MP (4K)",
+        "fps": 30,
+        "text": "1-ch @ 8 MP (30 fps)"
+      },
+      "ch2": {
+        "resolution": "4 MP",
+        "fps": 30,
+        "text": "2-ch @ 4 MP (30 fps)"
+      },
+      "ch3": {
+        "resolution": "3 MP",
+        "fps": 30,
+        "text": "3-ch @ 3 MP (30 fps)"
+      },
+      "ch4": {
+        "resolution": "1080p",
+        "fps": 30,
+        "text": "4-ch @ 1080p (30 fps)"
+      }
+    },
+    "totalDecodingCapacity": "1-ch @ 8 MP (30 fps) / 4-ch @ 1080p (30 fps)",
+    "compression": [
+      "H.265+",
+      "H.265",
+      "H.264+",
+      "H.264"
+    ],
+    "videoOutputs": [
+      "1x HDMI (4K 3840x2160)",
+      "1x VGA (1080p)"
+    ],
+    "sataPorts": "1 SATA port (up to 6 TB)",
+    "poePorts": 0,
+    "aiFeatures": [
+      "IPC Motion Detection",
+      "Auto Network Replenishment (ANR)"
+    ],
+    "sourceUrl": "https://www.dahuasecurity.com/products/All-Products/Network-Recorders/Lite-Series/NVR2-Series/1-SATA/NVR2104HS-4KS2",
+    "notes": "Entry 4K NVR with 80 Mbps bandwidth and 1-ch 8MP real-time decoding.",
+    "verified": true,
+    "lastAgentScan": "2026-10-13T19:37:57.656Z"
+  },
+  {
+    "id": "dahua-nvr2108hs-4ks2",
+    "brand": "Dahua",
+    "model": "NVR2108HS-4KS2",
+    "series": "Entry 4K Series NVR",
+    "deviceType": "NVR",
+    "channelCount": 8,
+    "maxResolution": "8 MP (4K)",
+    "incomingBandwidth": "80 Mbps",
+    "outgoingBandwidth": "80 Mbps",
+    "streams": {
+      "ch1": {
+        "resolution": "8 MP (4K)",
+        "fps": 30,
+        "text": "1-ch @ 8 MP (30 fps)"
+      },
+      "ch2": {
+        "resolution": "4 MP",
+        "fps": 30,
+        "text": "2-ch @ 4 MP (30 fps)"
+      },
+      "ch3": {
+        "resolution": "3 MP",
+        "fps": 30,
+        "text": "3-ch @ 3 MP (30 fps)"
+      },
+      "ch4": {
+        "resolution": "1080p",
+        "fps": 30,
+        "text": "4-ch @ 1080p (30 fps) / 8-ch @ 720p"
+      }
+    },
+    "totalDecodingCapacity": "1-ch @ 8 MP (30 fps) / 4-ch @ 1080p (30 fps) / 8-ch @ 720p",
+    "compression": [
+      "H.265+",
+      "H.265",
+      "H.264+",
+      "H.264"
+    ],
+    "videoOutputs": [
+      "1x HDMI (4K)",
+      "1x VGA (1080p)"
+    ],
+    "sataPorts": "1 SATA port (up to 6 TB)",
+    "poePorts": 0,
+    "aiFeatures": [
+      "IPC Smart Events",
+      "P2P Cloud access"
+    ],
+    "sourceUrl": "https://www.dahuasecurity.com/products/All-Products/Network-Recorders/Lite-Series/NVR2-Series/1-SATA/NVR2108HS-4KS2",
+    "notes": "8-ch value NVR with 4K HDMI local output and 80 Mbps throughput.",
+    "verified": true,
+    "lastAgentScan": "2026-10-13T19:37:57.656Z"
+  },
+  {
+    "id": "dahua-nvr5216-4ks2",
+    "brand": "Dahua",
+    "model": "NVR5216-4KS2",
+    "series": "Pro AI Series NVR",
+    "deviceType": "NVR",
+    "channelCount": 16,
+    "maxResolution": "12 MP",
+    "incomingBandwidth": "320 Mbps",
+    "outgoingBandwidth": "320 Mbps",
+    "streams": {
+      "ch1": {
+        "resolution": "12 MP",
+        "fps": 30,
+        "text": "1-ch @ 12 MP (30 fps)"
+      },
+      "ch2": {
+        "resolution": "8 MP (4K)",
+        "fps": 30,
+        "text": "2-ch @ 8 MP / 4K (30 fps)"
+      },
+      "ch3": {
+        "resolution": "8 MP (4K)",
+        "fps": 30,
+        "text": "3-ch @ 8 MP / 4K (30 fps)"
+      },
+      "ch4": {
+        "resolution": "8 MP (4K)",
+        "fps": 30,
+        "text": "4-ch @ 8 MP / 4K (30 fps) or 16-ch @ 1080p (30 fps)"
+      }
+    },
+    "totalDecodingCapacity": "4-ch @ 4K (30 fps) / 16-ch @ 1080p (30 fps)",
+    "compression": [
+      "Smart H.265+",
+      "H.265",
+      "Smart H.264+",
+      "H.264",
+      "MJPEG"
+    ],
+    "videoOutputs": [
+      "1x HDMI (4K 60Hz)",
+      "1x VGA (1080p)"
+    ],
+    "sataPorts": "2 SATA III ports (up to 10 TB each, 20 TB total)",
+    "poePorts": 0,
+    "aiFeatures": [
+      "Fisheye Dewarping",
+      "Point of Sale (POS)",
+      "Perimeter Protection",
+      "Face Recognition"
+    ],
+    "sourceUrl": "https://www.dahuasecurity.com/products/All-Products/Network-Recorders/Pro-Series/NVR5-Series/2-SATA/NVR5216-4KS2",
+    "notes": "Enterprise 16-channel NVR with 320 Mbps processing capacity and quad 4K decoding.",
+    "verified": true,
+    "lastAgentScan": "2026-10-13T19:37:57.656Z"
+  },
+  {
+    "id": "imou-n14p",
+    "brand": "IMOU",
+    "model": "N14P",
+    "series": "PoE Smart Security Recorder",
+    "deviceType": "NVR",
+    "channelCount": 4,
+    "maxResolution": "8 MP (4K)",
+    "incomingBandwidth": "40 Mbps",
+    "outgoingBandwidth": "40 Mbps",
+    "streams": {
+      "ch1": {
+        "resolution": "8 MP (4K)",
+        "fps": 25,
+        "text": "1-ch @ 8 MP (25 fps)"
+      },
+      "ch2": {
+        "resolution": "4 MP",
+        "fps": 25,
+        "text": "2-ch @ 4 MP (25 fps)"
+      },
+      "ch3": {
+        "resolution": "3 MP / 1080p",
+        "fps": 25,
+        "text": "3-ch @ 3 MP / 1080p (25 fps)"
+      },
+      "ch4": {
+        "resolution": "1080p",
+        "fps": 25,
+        "text": "4-ch @ 1080p (25/30 fps)"
+      }
+    },
+    "totalDecodingCapacity": "1-ch @ 8 MP / 2-ch @ 4 MP / 4-ch @ 1080p (30 fps) / 8-ch @ 720p",
+    "compression": [
+      "Smart H.265",
+      "H.265",
+      "Smart H.264",
+      "H.264"
+    ],
+    "videoOutputs": [
+      "1x HDMI (1080p)",
+      "1x VGA (1080p)"
+    ],
+    "sataPorts": "1 SATA port (up to 8 TB)",
+    "poePorts": 4,
+    "aiFeatures": [
+      "Smart Human & Vehicle Detection by IMOU cameras",
+      "Two-Way Talk support via App"
+    ],
+    "sourceUrl": "https://www.imoulife.com/product/detail/N14P",
+    "notes": "4-Port integrated PoE NVR with direct plug-and-play for IMOU PoE and ONVIF cameras.",
+    "verified": true,
+    "lastAgentScan": "2026-10-13T19:37:57.656Z"
+  },
+  {
+    "id": "imou-n18p",
+    "brand": "IMOU",
+    "model": "N18P",
+    "series": "PoE Smart Security Recorder",
+    "deviceType": "NVR",
+    "channelCount": 8,
+    "maxResolution": "8 MP (4K)",
+    "incomingBandwidth": "80 Mbps",
+    "outgoingBandwidth": "80 Mbps",
+    "streams": {
+      "ch1": {
+        "resolution": "8 MP (4K)",
+        "fps": 25,
+        "text": "1-ch @ 8 MP (25 fps)"
+      },
+      "ch2": {
+        "resolution": "4 MP",
+        "fps": 25,
+        "text": "2-ch @ 4 MP (25 fps)"
+      },
+      "ch3": {
+        "resolution": "3 MP / 1080p",
+        "fps": 25,
+        "text": "3-ch @ 3 MP / 1080p (25 fps)"
+      },
+      "ch4": {
+        "resolution": "1080p",
+        "fps": 25,
+        "text": "4-ch @ 1080p (25/30 fps) / 8-ch @ 720p"
+      }
+    },
+    "totalDecodingCapacity": "1-ch @ 8 MP / 2-ch @ 4 MP / 4-ch @ 1080p / 8-ch @ 720p",
+    "compression": [
+      "Smart H.265",
+      "H.265",
+      "Smart H.264",
+      "H.264"
+    ],
+    "videoOutputs": [
+      "1x HDMI (1080p)",
+      "1x VGA (1080p)"
+    ],
+    "sataPorts": "1 SATA port (up to 8 TB)",
+    "poePorts": 8,
+    "aiFeatures": [
+      "IMOU Life Cloud Integration",
+      "Human Detection by Camera",
+      "Alarm Notification"
+    ],
+    "sourceUrl": "https://www.imoulife.com/product/detail/N18P",
+    "notes": "8-Port PoE integrated recorder with 80 Mbps incoming bandwidth and IMOU app pairing.",
+    "verified": true,
+    "lastAgentScan": "2026-10-13T19:37:57.656Z"
+  },
+  {
+    "id": "imou-nvr1104hs-w-s2",
+    "brand": "IMOU",
+    "model": "NVR1104HS-W-S2",
+    "series": "Wireless Wi-Fi Security Recorder",
+    "deviceType": "NVR",
+    "channelCount": 4,
+    "maxResolution": "6 MP",
+    "incomingBandwidth": "40 Mbps",
+    "outgoingBandwidth": "40 Mbps",
+    "streams": {
+      "ch1": {
+        "resolution": "6 MP",
+        "fps": 25,
+        "text": "1-ch @ 6 MP (25 fps)"
+      },
+      "ch2": {
+        "resolution": "4 MP",
+        "fps": 25,
+        "text": "2-ch @ 4 MP (25 fps)"
+      },
+      "ch3": {
+        "resolution": "3 MP / 1080p",
+        "fps": 25,
+        "text": "3-ch @ 3 MP / 1080p (25 fps)"
+      },
+      "ch4": {
+        "resolution": "1080p",
+        "fps": 25,
+        "text": "4-ch @ 1080p (25 fps)"
+      }
+    },
+    "totalDecodingCapacity": "1-ch @ 6 MP / 2-ch @ 4 MP / 4-ch @ 1080p (25 fps)",
+    "compression": [
+      "Smart H.265",
+      "H.265",
+      "Smart H.264",
+      "H.264"
+    ],
+    "videoOutputs": [
+      "1x HDMI (1080p)",
+      "1x VGA (1080p)"
+    ],
+    "sataPorts": "1 SATA port (up to 8 TB)",
+    "poePorts": 0,
+    "aiFeatures": [
+      "Dual-Antenna 2.4GHz Wi-Fi (Up to 100m open area)",
+      "Auto Wi-Fi Pairing"
+    ],
+    "sourceUrl": "https://www.imoulife.com/product/detail/WirelessRecorder",
+    "notes": "Dedicated Wi-Fi NVR featuring external high-gain dual antennas for wireless cameras.",
+    "verified": true,
+    "lastAgentScan": "2026-10-13T19:37:57.656Z"
+  },
+  {
+    "id": "imou-nvr1108hs-w-s2",
+    "brand": "IMOU",
+    "model": "NVR1108HS-W-S2",
+    "series": "Wireless Wi-Fi Security Recorder",
+    "deviceType": "NVR",
+    "channelCount": 8,
+    "maxResolution": "6 MP",
+    "incomingBandwidth": "40 Mbps",
+    "outgoingBandwidth": "40 Mbps",
+    "streams": {
+      "ch1": {
+        "resolution": "6 MP",
+        "fps": 25,
+        "text": "1-ch @ 6 MP (25 fps)"
+      },
+      "ch2": {
+        "resolution": "4 MP",
+        "fps": 25,
+        "text": "2-ch @ 4 MP (25 fps)"
+      },
+      "ch3": {
+        "resolution": "3 MP / 1080p",
+        "fps": 25,
+        "text": "3-ch @ 3 MP / 1080p (25 fps)"
+      },
+      "ch4": {
+        "resolution": "1080p",
+        "fps": 25,
+        "text": "4-ch @ 1080p (25 fps) / 8-ch @ 720p"
+      }
+    },
+    "totalDecodingCapacity": "1-ch @ 6 MP / 2-ch @ 4 MP / 4-ch @ 1080p (25 fps) / 8-ch @ 720p",
+    "compression": [
+      "Smart H.265",
+      "H.265",
+      "Smart H.264",
+      "H.264"
+    ],
+    "videoOutputs": [
+      "1x HDMI (1080p)",
+      "1x VGA (1080p)"
+    ],
+    "sataPorts": "1 SATA port (up to 8 TB)",
+    "poePorts": 0,
+    "aiFeatures": [
+      "Automatic Wi-Fi Cascading",
+      "IMOU App Remote Live & Playback"
+    ],
+    "sourceUrl": "https://www.imoulife.com/product/detail/WirelessRecorder",
+    "notes": "8-channel Wi-Fi wireless NVR with automatic camera pairing and cascading range extension.",
+    "verified": true,
+    "lastAgentScan": "2026-10-13T19:37:57.656Z"
+  }
+]

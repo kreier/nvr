@@ -1,0 +1,44 @@
+name: Agentic Surveillance Spec Sync
+
+on:
+  schedule:
+    # Run every Monday at 02:00 UTC
+    - cron: '0 2 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-specs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run Agentic Scraper
+        run: npm run scrape
+
+      - name: Verify Dataset Integrity
+        run: npm run agent:verify
+
+      - name: Commit and push updated dataset if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/data/ public/nvr-models.json
+          if git diff --staged --quiet; then
+            echo "No data updates detected."
+          else
+            git commit -m "chore(agent): sync scraped surveillance NVR specs [skip ci]"
+            git push
+          fi

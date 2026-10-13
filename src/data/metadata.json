@@ -1,0 +1,25 @@
+{
+  "totalModels": 22,
+  "brandDistribution": {
+    "Hikvision": 7,
+    "Dahua": 5,
+    "IMOU": 4,
+    "KBVISION": 6,
+    "Other": 0
+  },
+  "supportedBrands": [
+    "Hikvision",
+    "Dahua",
+    "IMOU",
+    "KBVISION"
+  ],
+  "channelsAnalyzed": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "lastScraped": "2026-10-13T19:37:57.657Z",
+  "engine": "Antigravity Agentic Scraper v1.0",
+  "schemaVersion": "1.0.0"
+}
