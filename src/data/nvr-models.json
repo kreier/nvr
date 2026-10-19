@@ -53,7 +53,7 @@
     "sourceUrl": "https://kbvisiongroup.com/product/kx-dai8108h3-5m/",
     "notes": "Penta-brid 8-ch DVR supporting up to 12 IP channels (up to 6 MP each) when analog channels are disabled.",
     "verified": true,
-    "lastAgentScan": "2026-10-14T12:43:13.402Z"
+    "lastAgentScan": "2026-10-19T07:32:45.601Z"
   },
   {
     "id": "kbvision-kx-dai8104h3-5m",
@@ -109,7 +109,7 @@
     "sourceUrl": "https://kbvisiongroup.com/product/kx-dai8104h3-5m/",
     "notes": "Penta-brid 4-ch DVR expandable up to 6 IP channels (up to 6 MP) with 32 Mbps total bandwidth.",
     "verified": true,
-    "lastAgentScan": "2026-10-14T12:43:13.402Z"
+    "lastAgentScan": "2026-10-19T07:32:45.601Z"
   },
   {
     "id": "kbvision-kx-a8104n2",
@@ -164,7 +164,7 @@
     "sourceUrl": "https://kbvisiongroup.com/product/kx-a8104n2/",
     "notes": "Budget 4-channel pure IP NVR with compact form factor.",
     "verified": true,
-    "lastAgentScan": "2026-10-14T12:43:13.402Z"
+    "lastAgentScan": "2026-10-19T07:32:45.601Z"
   },
   {
     "id": "kbvision-kx-a8108n2",
@@ -218,7 +218,7 @@
     "sourceUrl": "https://kbvisiongroup.com/product/kx-a8108n2/",
     "notes": "8-channel compact IP NVR supporting up to 6MP camera inputs.",
     "verified": true,
-    "lastAgentScan": "2026-10-14T12:43:13.402Z"
+    "lastAgentScan": "2026-10-19T07:32:45.601Z"
   },
   {
     "id": "kbvision-kx-c4k8104n2",
@@ -272,7 +272,7 @@
     "sourceUrl": "https://kbvisiongroup.com/product/kx-c4k8104n2/",
     "notes": "Supports 4K HDMI video output and 80 Mbps high bitrate throughput.",
     "verified": true,
-    "lastAgentScan": "2026-10-14T12:43:13.402Z"
+    "lastAgentScan": "2026-10-19T07:32:45.601Z"
   },
   {
     "id": "kbvision-kx-c4k8108n2",
@@ -327,7 +327,7 @@
     "sourceUrl": "https://kbvisiongroup.com/product/kx-c4k8108n2/",
     "notes": "High performance 8-ch NVR with native 4K display and broad IPC AI capability.",
     "verified": true,
-    "lastAgentScan": "2026-10-14T12:43:13.402Z"
+    "lastAgentScan": "2026-10-19T07:32:45.601Z"
   },
   {
     "id": "hikvision-ds-7104ni-q1",
@@ -381,7 +381,7 @@
     "sourceUrl": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Value-Series/ds-7104ni-q1/",
     "notes": "Hikvision's widely deployed 4-ch value NVR with H.265+ smart codec and mini chassis.",
     "verified": true,
-    "lastAgentScan": "2026-10-14T12:43:13.402Z"
+    "lastAgentScan": "2026-10-19T07:32:45.601Z"
   },
   {
     "id": "hikvision-ids-7208hqhi-m1-e",
@@ -437,7 +437,7 @@
     "sourceUrl": "https://www.hikvision.com/en/products/Turbo-HD-Products/DVR/AcuSense-Series/ids-7208hqhi-m1-e/",
     "notes": "AcuSense deep learning DVR capable of expanding up to 12 IP channels in Enhanced IP mode.",
     "verified": true,
-    "lastAgentScan": "2026-10-14T12:43:13.402Z"
+    "lastAgentScan": "2026-10-19T07:32:45.601Z"
   },
   {
     "id": "hikvision-ds-7204hghi-m1",
@@ -491,7 +491,7 @@
     "sourceUrl": "https://www.hikvision.com/en/products/Turbo-HD-Products/DVR/Value-Series/ds-7204hghi-m1/",
     "notes": "Compact 4-ch Turbo HD recorder with 1 extra IP camera input (up to 5 channels total).",
     "verified": true,
-    "lastAgentScan": "2026-10-14T12:43:13.402Z"
+    "lastAgentScan": "2026-10-19T07:32:45.601Z"
   },
   {
     "id": "hikvision-ds-7208hghi-m1",
@@ -545,7 +545,7 @@
     "sourceUrl": "https://www.hikvision.com/en/products/Turbo-HD-Products/DVR/Value-Series/ds-7208hghi-m1/",
     "notes": "8-ch DVR supporting up to 10 IP channels with Motion Detection 2.0.",
     "verified": true,
-    "lastAgentScan": "2026-10-14T12:43:13.402Z"
+    "lastAgentScan": "2026-10-19T07:32:45.601Z"
   },
   {
     "id": "hikvision-ds-7604ni-k1-4p",
@@ -600,7 +600,7 @@
     "sourceUrl": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Pro-Series/ds-7604ni-k1-4p/",
     "notes": "Equipped with 4 independent PoE network interfaces and 4K HDMI direct output.",
     "verified": true,
-    "lastAgentScan": "2026-10-14T12:43:13.402Z"
+    "lastAgentScan": "2026-10-19T07:32:45.601Z"
   },
   {
     "id": "hikvision-ds-7608ni-k2",
@@ -655,7 +655,7 @@
     "sourceUrl": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Pro-Series/ds-7608ni-k2/",
     "notes": "Dual HDD bays with 160 Mbps outgoing bandwidth for extensive remote streaming.",
     "verified": true,
-    "lastAgentScan": "2026-10-14T12:43:13.402Z"
+    "lastAgentScan": "2026-10-19T07:32:45.601Z"
   },
   {
     "id": "hikvision-ds-7616ni-i2",
@@ -712,7 +712,7 @@
     "sourceUrl": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Ultra-Series/ds-7616ni-i2/",
     "notes": "High-tier I-Series NVR supporting 32 MP extreme resolution cameras and 4K @ 60Hz HDMI output.",
     "verified": true,
-    "lastAgentScan": "2026-10-14T12:43:13.402Z"
+    "lastAgentScan": "2026-10-19T07:32:45.601Z"
   },
   {
     "id": "dahua-nvr4104hs-4ks2-l",
@@ -767,7 +767,7 @@
     "sourceUrl": "https://www.dahuasecurity.com/products/All-Products/Network-Recorders/Lite-Series/NVR4-Series/1-SATA/NVR4104HS-4KS2/L",
     "notes": "Dahua 4K Lite NVR with 80 Mbps throughput and support for AI-by-camera analytics.",
     "verified": true,
-    "lastAgentScan": "2026-10-14T12:43:13.402Z"
+    "lastAgentScan": "2026-10-19T07:32:45.601Z"
   },
   {
     "id": "dahua-nvr4108hs-4ks2-l",
@@ -822,7 +822,7 @@
     "sourceUrl": "https://www.dahuasecurity.com/products/All-Products/Network-Recorders/Lite-Series/NVR4-Series/1-SATA/NVR4108HS-4KS2/L",
     "notes": "Dahua 8-ch 4K Lite NVR with simultaneous 8-ch 1080p playback.",
     "verified": true,
-    "lastAgentScan": "2026-10-14T12:43:13.402Z"
+    "lastAgentScan": "2026-10-19T07:32:45.601Z"
   },
   {
     "id": "dahua-nvr2104hs-4ks2",
@@ -876,7 +876,7 @@
     "sourceUrl": "https://www.dahuasecurity.com/products/All-Products/Network-Recorders/Lite-Series/NVR2-Series/1-SATA/NVR2104HS-4KS2",
     "notes": "Entry 4K NVR with 80 Mbps bandwidth and 1-ch 8MP real-time decoding.",
     "verified": true,
-    "lastAgentScan": "2026-10-14T12:43:13.402Z"
+    "lastAgentScan": "2026-10-19T07:32:45.601Z"
   },
   {
     "id": "dahua-nvr2108hs-4ks2",
@@ -930,7 +930,7 @@
     "sourceUrl": "https://www.dahuasecurity.com/products/All-Products/Network-Recorders/Lite-Series/NVR2-Series/1-SATA/NVR2108HS-4KS2",
     "notes": "8-ch value NVR with 4K HDMI local output and 80 Mbps throughput.",
     "verified": true,
-    "lastAgentScan": "2026-10-14T12:43:13.402Z"
+    "lastAgentScan": "2026-10-19T07:32:45.601Z"
   },
   {
     "id": "dahua-nvr5216-4ks2",
@@ -987,7 +987,7 @@
     "sourceUrl": "https://www.dahuasecurity.com/products/All-Products/Network-Recorders/Pro-Series/NVR5-Series/2-SATA/NVR5216-4KS2",
     "notes": "Enterprise 16-channel NVR with 320 Mbps processing capacity and quad 4K decoding.",
     "verified": true,
-    "lastAgentScan": "2026-10-14T12:43:13.402Z"
+    "lastAgentScan": "2026-10-19T07:32:45.601Z"
   },
   {
     "id": "imou-n14p",
@@ -1041,7 +1041,7 @@
     "sourceUrl": "https://www.imoulife.com/product/detail/N14P",
     "notes": "4-Port integrated PoE NVR with direct plug-and-play for IMOU PoE and ONVIF cameras.",
     "verified": true,
-    "lastAgentScan": "2026-10-14T12:43:13.402Z"
+    "lastAgentScan": "2026-10-19T07:32:45.601Z"
   },
   {
     "id": "imou-n18p",
@@ -1096,7 +1096,7 @@
     "sourceUrl": "https://www.imoulife.com/product/detail/N18P",
     "notes": "8-Port PoE integrated recorder with 80 Mbps incoming bandwidth and IMOU app pairing.",
     "verified": true,
-    "lastAgentScan": "2026-10-14T12:43:13.402Z"
+    "lastAgentScan": "2026-10-19T07:32:45.601Z"
   },
   {
     "id": "imou-nvr1104hs-w-s2",
@@ -1150,7 +1150,7 @@
     "sourceUrl": "https://www.imoulife.com/product/detail/WirelessRecorder",
     "notes": "Dedicated Wi-Fi NVR featuring external high-gain dual antennas for wireless cameras.",
     "verified": true,
-    "lastAgentScan": "2026-10-14T12:43:13.402Z"
+    "lastAgentScan": "2026-10-19T07:32:45.601Z"
   },
   {
     "id": "imou-nvr1108hs-w-s2",
@@ -1204,6 +1204,6 @@
     "sourceUrl": "https://www.imoulife.com/product/detail/WirelessRecorder",
     "notes": "8-channel Wi-Fi wireless NVR with automatic camera pairing and cascading range extension.",
     "verified": true,
-    "lastAgentScan": "2026-10-14T12:43:13.402Z"
+    "lastAgentScan": "2026-10-19T07:32:45.601Z"
   }
 ]
