@@ -1,6 +1,7 @@
 import React from 'react';
 import { Video, ShieldCheck, Download, FileSpreadsheet, Bot, Database } from 'lucide-react';
 import { exportToCSV, exportToJSON } from '../utils/exportData';
+import { APP_VERSION } from '../utils/version';
 
 export default function Navbar({ models, onOpenAgenticModal }) {
   return (
@@ -15,6 +16,9 @@ export default function Navbar({ models, onOpenAgenticModal }) {
             <div>
               <div className="flex items-center space-x-2">
                 <span className="font-bold text-lg text-white tracking-tight">NVR Stream Spec Hub</span>
+                <span className="inline-flex items-center px-2 py-0.5 rounded-full text-xs font-mono font-medium bg-blue-500/10 text-blue-400 border border-blue-500/20" title="Version automatically retrieved from repository/package">
+                  {APP_VERSION}
+                </span>
                 <span className="inline-flex items-center px-2 py-0.5 rounded-full text-xs font-medium bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">
                   <Bot className="w-3 h-3 mr-1" />
                   Agentic Verified

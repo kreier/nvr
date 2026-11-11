@@ -1,5 +1,6 @@
 import React from 'react';
-import { X, Bot, Cpu, Terminal, GitBranch, RefreshCw, CheckCircle2 } from 'lucide-react';
+import { X, Bot, Cpu, Terminal, GitBranch, RefreshCw, CheckCircle2, Tag } from 'lucide-react';
+import { APP_VERSION } from '../utils/version';
 
 export default function AgenticInfoModal({ onClose }) {
   return (
@@ -13,7 +14,13 @@ export default function AgenticInfoModal({ onClose }) {
               <Bot className="w-4 h-4 text-cyan-400" />
             </div>
             <div>
-              <h2 className="text-lg font-bold text-white">Agentic Architecture & Scraper</h2>
+              <div className="flex items-center space-x-2">
+                <h2 className="text-lg font-bold text-white">Agentic Architecture & Scraper</h2>
+                <span className="inline-flex items-center px-1.5 py-0.5 rounded text-[11px] font-mono bg-blue-500/10 text-blue-400 border border-blue-500/20">
+                  <Tag className="w-2.5 h-2.5 mr-1" />
+                  {APP_VERSION}
+                </span>
+              </div>
               <p className="text-xs text-slate-400">Autonomous Surveillance Spec Ingestion Engine</p>
             </div>
           </div>

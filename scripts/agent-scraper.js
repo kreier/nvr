@@ -15,6 +15,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { execSync } from 'node:child_process';
 import { MODEL_SEEDS } from './model-seeds.js';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -24,6 +25,19 @@ const rootDir = path.resolve(__dirname, '..');
 const DATA_SRC_PATH = path.join(rootDir, 'src', 'data', 'nvr-models.json');
 const DATA_PUB_PATH = path.join(rootDir, 'public', 'nvr-models.json');
 const META_SRC_PATH = path.join(rootDir, 'src', 'data', 'metadata.json');
+
+export function getAppVersion() {
+  if (process.env.APP_VERSION) return process.env.APP_VERSION;
+  try {
+    const gitTag = execSync('git describe --tags --always').toString().trim();
+    if (gitTag) return gitTag;
+  } catch (err) {}
+  try {
+    const pkg = JSON.parse(fs.readFileSync(path.join(rootDir, 'package.json'), 'utf-8'));
+    return pkg.version.startsWith('v') ? pkg.version : `v${pkg.version}`;
+  } catch (err) {}
+  return 'v0.1.0';
+}
 
 // Decoding pool calculator based on standard Surveillance NVR SoC architectures
 export function estimateStreamsFromCapacity(modelNumber, maxResolutionStr, channels = 4) {
@@ -129,6 +143,7 @@ async function runAgenticScraper() {
   fs.writeFileSync(DATA_PUB_PATH, jsonContent, 'utf-8');
 
   const metadata = {
+    appVersion: getAppVersion(),
     totalModels: processedModels.length,
     brandDistribution: brandCounts,
     supportedBrands: ["Hikvision", "Dahua", "IMOU", "KBVISION"],

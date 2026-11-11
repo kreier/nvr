@@ -12,6 +12,7 @@ import AgenticInfoModal from './components/AgenticInfoModal';
 
 import initialModels from './data/nvr-models.json';
 import metadata from './data/metadata.json';
+import { APP_VERSION } from './utils/version';
 import { Bot, Sparkles, Filter, ExternalLink } from 'lucide-react';
 
 export default function App() {
@@ -226,7 +227,12 @@ export default function App() {
       <footer className="mt-auto border-t border-slate-800 bg-slate-950 py-8 text-xs text-slate-400">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-4">
           <div>
-            <div className="font-semibold text-slate-200">NVR Stream Spec Hub (Agentic Edition)</div>
+            <div className="font-semibold text-slate-200 flex items-center space-x-2">
+              <span>NVR Stream Spec Hub (Agentic Edition)</span>
+              <span className="font-mono text-[11px] px-1.5 py-0.5 rounded bg-slate-800 text-slate-300 border border-slate-700">
+                {APP_VERSION}
+              </span>
+            </div>
             <p className="text-slate-500 mt-0.5">
               Automated surveillance hardware decoding benchmark & specifications directory.
             </p>

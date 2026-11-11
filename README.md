@@ -1,5 +1,7 @@
 # NVR Stream Spec Hub (Agentic Edition)
 
+[![Release](https://img.shields.io/github/v/release/kreier/nvr?color=blue&label=version)](https://github.com/kreier/nvr/releases)
+[![Package Version](https://img.shields.io/github/package-json/v/kreier/nvr?color=emerald&label=package)](https://github.com/kreier/nvr/blob/main/package.json)
 [![Deploy to GitHub Pages](https://github.com/kreier/nvr/actions/workflows/static.yml/badge.svg)](https://github.com/kreier/nvr/actions/workflows/static.yml)
 [![Agentic Spec Sync](https://github.com/kreier/nvr/actions/workflows/agent-scraper.yml/badge.svg)](https://github.com/kreier/nvr/actions/workflows/agent-scraper.yml)
 
@@ -16,6 +18,7 @@ The goal is to provide a complete, verified overview of available **NVR and hybr
 ## 🚀 Live Demo & Deployment
 
 - **Live Static Web Application**: [https://kreier.github.io/nvr/](https://kreier.github.io/nvr/)
+- **Release Version**: [![Version](https://img.shields.io/github/v/release/kreier/nvr?color=blue&label=version)](https://github.com/kreier/nvr/releases) (retrieved dynamically from repository release)
 - Built with Vite and automatically deployed to GitHub Pages via GitHub Actions.
 
 ---
